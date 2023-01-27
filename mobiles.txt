@@ -1,5 +1,3 @@
-Apple
-Realme
 Vivo
 Redmi
 Samsung
@@ -9,5 +7,12 @@ samsung tv
 oneplus tv
 realme tv
 onida tv
+lg tv
+hp tv
+dell tv
+apple tv
+ibm tv
+mi tv
+panasonic tv
 
 
