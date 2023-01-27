@@ -4,4 +4,10 @@ Vivo
 Redmi
 Samsung
 Moto
+sony tc
+samsung tv
+oneplus tv
+realme tv
+onida tv
+
 
