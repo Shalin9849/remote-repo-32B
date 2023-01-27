@@ -3,4 +3,10 @@ idea
 jio
 vodafon
 hutch
+shalin
+kranthi
+manohar
+harsha
+srikanth
+
 
