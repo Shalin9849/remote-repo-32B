@@ -1,0 +1,6 @@
+telugu
+english
+tamil
+malayam 
+hindi
+
