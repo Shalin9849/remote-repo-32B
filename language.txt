@@ -3,4 +3,8 @@ english
 tamil
 malayam 
 hindi
+pen
+pencil
+marker
+gel
 
