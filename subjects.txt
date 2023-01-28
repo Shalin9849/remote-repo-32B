@@ -3,4 +3,9 @@ social
 science
 networking
 environmental science
+reasoning 
+aptitude
+current affairs
+grammer
+vocabulary
 
