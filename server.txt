@@ -3,4 +3,11 @@ third party
 govt
 pvt
 git
+dhoni
+sachin
+yuvaraj
+patan
+khife
+kholi
+rohith
 
