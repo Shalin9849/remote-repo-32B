@@ -16,5 +16,10 @@ attraction
 addict
 love
 dippression
+keys
+commands
+objects
+pop msgs
+models
 
 
