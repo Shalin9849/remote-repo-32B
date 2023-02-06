@@ -4,10 +4,12 @@ govt
 pvt
 git
 dhoni
-sachin
-yuvaraj
-patan
 khife
 kholi
 rohith
+fb
+insta
+twitter
+linkidin
+snapchat
 
